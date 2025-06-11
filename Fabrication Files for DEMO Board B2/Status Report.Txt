@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[ASM2464PD - B2 Sample-RoundHoles.TXT]
+   Generated File[ASM2464PD - B2 Sample-SlotHoles.TXT]
+   Generated File[ASM2464PD - B2 Sample.LDP]
+   Generated File[ASM2464PD - B2 Sample.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:56:45 On 2025/6/11

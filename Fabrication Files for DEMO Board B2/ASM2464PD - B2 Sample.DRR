@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ASM2464PD - B2 Sample.PcbDoc   2025/6/11  16:56:45
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ASM2464PD - B2 Sample-RoundHoles.TXT
+ASCII SlotHoles File : ASM2464PD - B2 Sample-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             430       PTH        0.00inch (0.00mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T3      126mil (3.2mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T5      63mil (1.6mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              438
+
+Total Processing Time (hh:mm:ss) : 00:00:00

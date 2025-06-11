@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: I:\DataSheets\ASM2464PD DEMO Board B2 [Altium Designer]\Gerber files for DEMO Board B2\ASM2464PD - B2 Sample.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=asm2464pd - b2 sample-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=asm2464pd - b2 sample-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

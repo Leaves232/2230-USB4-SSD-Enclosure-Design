@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: I:\DataSheets\ASM2464PD DEMO Board B2 [Altium Designer]\Gerber files for DEMO Board B2\ASM2464PD - B2 Sample.PcbDoc
+RuleKind=Clearance|RuleName=85ohm|Scope=Board|Minimum=3.50
+RuleKind=Width|RuleName=50ohm|Scope=Board|Minimum=3.20
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.50
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.20
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
