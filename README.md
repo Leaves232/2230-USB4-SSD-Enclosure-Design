@@ -24,7 +24,10 @@ This design has been checked to widely compatible with SSD.
 It should be noted that due to limitation of the 3.3V Buck, it cannot meet the power consumption requirements of 4T SSDs. **Please use it with SSDs within 2T**.
 
 
-## HOW TO USE Files
+
+## HOW TO USE FILES
+
+
 
 **ASM2464PD DEMO Board B2 [Altium Designer]** folder contains the design source files developed using Altium Designer. You can make secondary modifications based on these files. The others are files used for finished product manufacturing.
 
@@ -74,6 +77,7 @@ If you plan to produce via other manufacturers, please emphasize to the producti
  When purchasing materials on your own, Please pay attention to packaging, capacitor withstand voltage, and price issues, or refer to the material selection list I used at Huaqiu **PCBA Project - BOM Quotation for 2230 USB4 Enclosure**
 
 Please refer to the picture for SMT finished product effect
+
 ![image](https://github.com/Leaves232/2230-USB4-SSD-Enclosure-Design/blob/main/USB4%202230%20Enclosure%20Images/QQ%E5%9B%BE%E7%89%8720250607053230.png)
 ![image](https://github.com/Leaves232/2230-USB4-SSD-Enclosure-Design/blob/main/USB4%202230%20Enclosure%20Images/QQ%E5%9B%BE%E7%89%8720250607053236.png)
 
@@ -96,4 +100,15 @@ For other tips, please refer to the ASM2464PD_PDX mptool instructions in the fol
 
 
 
+
+### Congratulations, after completing the above steps you have a fully functional USB4 2230 SSD enclosure!
+
+
+
+
+## License
+
+The design is jointly completed by **@Leaves** and **@七上八下**. 
+
+This project is open sourced under the MIT protocol.
 
