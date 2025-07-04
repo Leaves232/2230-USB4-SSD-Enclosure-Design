@@ -2,7 +2,7 @@
 ## 2230 USB4 SSD Enclosure Design
 
 
-The purpose of this project is to verify the feasibility of a 40Gbps transmission solution under limited volume. 
+The purpose of this project is to verify the feasibility of a 40Gbps SSD enclosure solution in limited volume. 
 
 This design has gone through several iterations. The current open source design file includes support for active cooling and has considerable compatibility.
 
