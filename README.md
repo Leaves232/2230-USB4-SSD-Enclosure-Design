@@ -100,6 +100,8 @@ For other tips, please refer to the ASM2464PD_PDX mptool instructions in the fol
 
 ### Cooling Fan
 
+Caution: ASM2464PD finished product will inevitably overheat and disconnect without heat dissipation.
+
 The cooling fan in the demo is obtained by cutting the cooling module of Lenovo Legion Pro2.
 
 You can connect it with flying wires, apply silicone grease and press it directly on the 2464 main controller.
