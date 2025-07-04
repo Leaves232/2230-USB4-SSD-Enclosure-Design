@@ -85,7 +85,7 @@ Please refer to the picture for SMT finished product effect
 ### Firmware Write
 
 
-It is recommended to connect the completed ASM2464PD board to the USB port of computer
+It is recommended to connect the completed ASM2464PD board to the USB port of computer when you try to write the firmware.
 
 Download **ASM2464PD_FW_250123_85_00_00.zip** and unzip it to a separate folder
 
@@ -109,7 +109,7 @@ You can connect it with flying wires, apply silicone grease and press it directl
 
 
 
-### Congratulations, after completing the above steps you have a fully functional USB4 2230 SSD enclosure!
+### Congratulations, after completing the above steps you have a fully functional USB4 2230 SSD enclosure !
 
 
 
