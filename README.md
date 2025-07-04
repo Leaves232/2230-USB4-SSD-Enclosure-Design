@@ -78,8 +78,7 @@ If you plan to produce via other manufacturers, please emphasize to the producti
 
 Please refer to the picture for SMT finished product effect
 
-![image](https://github.com/Leaves232/2230-USB4-SSD-Enclosure-Design/blob/main/USB4%202230%20Enclosure%20Images/QQ%E5%9B%BE%E7%89%8720250607053230.png)
-![image](https://github.com/Leaves232/2230-USB4-SSD-Enclosure-Design/blob/main/USB4%202230%20Enclosure%20Images/QQ%E5%9B%BE%E7%89%8720250607053236.png)
+![image](https://github.com/Leaves232/2230-USB4-SSD-Enclosure-Design/blob/main/USB4%202230%20Enclosure%20Images/QQ%E5%9B%BE%E7%89%8720250607163928.jpg)
 
 
 
